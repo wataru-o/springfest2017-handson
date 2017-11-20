@@ -7,7 +7,7 @@
   * JDK 8以降
 * リポジトリ内の20171119_SpringFest2017-env.zipファイルは、演習で使用するプログラムが格納されています。ハンズオンに参加される方は、事前に以下のことを実施願います。
   1. 20171119_SpringFest2017-env.zipをダウンロードして解凍
-  2. 以下の二つのプロジェクトを、Eclipseの既存プロジェクトとしてインポート
+  2. 以下の二つのプロジェクトを、Eclipseの既存プロジェクトとしてインポート（STSではメニューバーから[File]->[Import...]を選択し、[General]->[Existing Projects into Workspace]を選択）
     * springfest2017-boot-hands-on
     * springfest2017-boot-hands-on-answer
   3. 各プロジェクトで右クリックし、[Maven]->[Update Project...]を実行
